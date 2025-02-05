@@ -4,7 +4,7 @@ You are applying for a HelpDesk Support role at MedLabTech Company, and as part 
 
 ## Task:
 1. Use the table below to create the following staff user accounts, their respective departments are also  shown
-  -  A user reports they can’t log in after you create their account. What steps would you take to resolve this?
+
 2.  Create a Shared Network Drive
  Create a network drive called "MedLabTech shared files"  that is accessible to all users.
    -  Within it, create a  folder for each department that can only be  accessed by the members of each write to their  departments folder.
